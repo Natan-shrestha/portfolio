@@ -5,18 +5,18 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Database Developer / Software Develope",
+    cardImage: "assets/images/experience-page/aqore.webp",
+    place: "Aqore Software Pvt. Ltd.",
+    time: "(November 27, 2023 – February 26, 2024)",
+    desp: "<li>Collaborated closely with clients to understand their business needs and translated them into clear technical requirements.</li><li>Designed and implemented optimized stored procedures in Microsoft SQL Server to automate complex data operations and improve performance.</li><li>Built comprehensive database diagrams, designed relational schemas, and created normalized tables tailored to real-world business use cases.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Junior Full-stack Developer",
+    cardImage: "assets/images/experience-page/twb.jpg",
+    place: "T.W.B Creatives Pvt. Ltd.",
+    time: "(April 22, 2024 – June 2024)",
+    desp: "<li>Developed responsive front-end interfaces using HTML, CSS, Bootstrap, and JavaScript to enhance user experience across devices.</li><li>Built and integrated RESTful APIs using Node.js and Express with secure backend logic and connected them to MySQL and MongoDB databases.</li><li>Collaborated in an Agile team to debug, test, and deploy full stack web applications with Git, GitHub, and version control best practices.</li>",
   },
   {
     title: "Research Intern",
