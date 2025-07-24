@@ -2,6 +2,7 @@
 
 const researchTable = document.querySelector(".main");
 
+/*
 const research = [
   {
     title: "A Batch Normalized Inference Network Keeps the KL Vanishing Away",
@@ -203,3 +204,4 @@ const fillData = () => {
   researchTable.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", fillData);
+*/

@@ -19,11 +19,11 @@ const exp = [
     desp: "<li>Developed responsive front-end interfaces using HTML, CSS, Bootstrap, and JavaScript to enhance user experience across devices.</li><li>Built and integrated RESTful APIs using Node.js and Express with secure backend logic and connected them to MySQL and MongoDB databases.</li><li>Collaborated in an Agile team to debug, test, and deploy full stack web applications with Git, GitHub, and version control best practices.</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "IT Support",
+    cardImage: "assets/images/experience-page/image.webp",
+    place: "Vayodha Hospital",
+    time: "(januwaty - july, 2025)",
+    desp: "<li>Monitored and resolved hospital network connectivity issues, ensuring minimal downtime and smooth internal communication.</li><li>Diagnosed and fixed hardware and software problems on computers, including OS errors, application crashes, and printer malfunctions.</li><li>Provided technical support to administrative staff, maintaining hospital systems, updating software, and handling day-to-day IT operations.</li>",
   },
 ];
 
@@ -58,7 +58,7 @@ const showCards2 = () => {
 document.addEventListener("DOMContentLoaded", showCards2);
 
 // Volunteership Cards
-
+/*
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
@@ -106,8 +106,9 @@ const showCards = () => {
 };
 document.addEventListener("DOMContentLoaded", showCards);
 
-// Hackathon Section
+*/
 
+/*
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
@@ -238,3 +239,4 @@ const showCards3 = () => {
   hackathonsection.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", showCards3);
+*/
